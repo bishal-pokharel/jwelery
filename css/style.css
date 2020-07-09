@@ -1,0 +1,62 @@
+/*font-family: 'Ubuntu', sans-serif;*/
+
+/*change nav brand font-*/
+.navbar-brand{
+		font-family: 'Ubuntu', sans-serif;
+		font-size: 2em;
+		font-weight: bold;
+}
+#mymenu li a:hover{
+	color: green;
+}
+#back-text h1,p{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+#back-text p{font-size: 20px;}
+
+#design h2,p{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+#h2{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+
+
+/*Make header image responsive*/
+.image{
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		min-height: 70vh;
+		border-radius: 0px;
+		margin-top: 60px;
+}
+.image h1{
+	font-size: 3.5em;
+}
+.card{
+	font-family: 'Ubuntu', sans-serif;
+}
+#footer-link i{
+	color: white;
+}
+#footer-link i:hover{
+	color: green;
+}
+nav i{
+	color: white;
+}
+nav i:hover{
+	color: green;
+}
+
+.contact{
+	border-radius: 0px;
+}
+
+.card-body img{
+		height: 200px;
+}
